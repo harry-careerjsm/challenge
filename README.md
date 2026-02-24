@@ -1,2 +1,42 @@
 # challenge
-Code Challenge 1
+Code challenge
+
+  Create a companies output file
+
+  You have a json file of users.
+  You have a json file of companies.
+
+  Please look at these files.
+  Create a script that process these files and creates an output.txt file.
+
+  Criteria for the output file.
+  Any user that belongs to a company in the companies file and is active
+  needs to get a token top up of the specified amount in the companies top up
+  field.
+
+  If the users company email status is true indicate in the output that the
+  user was sent an email ( don't actually send any emails).
+  However, if the user has an email status of false, don't send the email
+  regardless of the company's email status.
+
+  Companies should be ordered by company id.
+  Users should be ordered alphabetically by last name.
+
+  Important points
+  - There could be bad data
+  - The code should be runnable in a command line
+  - Coide can be written in Python, Ruby or JS
+  - Code needs to be cloneable from github
+  - Code file should be named challenge.<extension>
+
+  An example_output.txt file is included.
+  Use the example file provided to see what the output should look like.
+
+  Assessment Criteria
+  - Functionality
+  - Error Handling
+  - Reusability
+  - Style
+  - Adherence to convention
+  - Documentation
+  - Communication
