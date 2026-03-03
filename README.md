@@ -9,15 +9,16 @@ Code challenge
   Create a script that process these files and creates an output.txt file.
 
   Criteria for the output file.
-  1. Any user that belongs to a company and is active needs to get a token top up of the specified amount in the companies top up field.
+  1. Any user that belongs to a company and is active needs to get a token top
+     up of the specified amount in the companies top up field.
 
   2. Only list users that get a top up.
 
   3. If the users company email status is true indicate in the output that the
-  user was sent an email ( don't actually send any emails).
+     user was sent an email ( don't actually send any emails).
 
   4. If the users company email status is false  indicate in the output that the
-  user was not sent an email ( don't actually send any emails).
+     user was not sent an email ( don't actually send any emails).
 
   5. Companies should be ordered by company id.
 
