@@ -2,14 +2,17 @@
 	Company Id: 1
 	Company Name: Blue Cat Inc.
 	Users Emailed:
-	Users Not Emailed:
 		Carr, Genesis, genesis.carr@demo.com
 		  Previous Token Balance, 71
 		  New Token Balance 142
 		Lynch, Eileen, eileen.lynch@fake.com
 		  Previous Token Balance, 40
 		  New Token Balance 111
-		Total amount of top ups for Blue Cat Inc.: 142
+	Users Not Emailed:
+		Anderson, Marcus, marcus.anderson@test.com
+		  Previous Token Balance, 55
+		  New Token Balance 126
+		Total amount of top ups for Blue Cat Inc.: 213
 
 	Company Id: 2
 	Company Name: Yellow Mouse Inc.
@@ -59,13 +62,13 @@
 	Company Id: 4
 	Company Name: Yellow Frog Inc.
 	Users Emailed:
+		Knight, Noah, noah.knight@fake.com
+		  Previous Token Balance, 23
+		  New Token Balance 56
 	Users Not Emailed:
 		Gardner, Alexander, alexander.gardner@demo.com
 		  Previous Token Balance, 40
 		  New Token Balance 73
-		Knight, Noah, noah.knight@fake.com
-		  Previous Token Balance, 23
-		  New Token Balance 56
 		Rodriquez, Brent, brent.rodriquez@test.com
 		  Previous Token Balance, 96
 		  New Token Balance 129
@@ -88,4 +91,3 @@
 		  Previous Token Balance, 26
 		  New Token Balance 108
 		Total amount of top ups for Purple Fish Inc.: 246
-
